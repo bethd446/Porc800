@@ -1,6 +1,6 @@
 {
   "versionCode": 5,
   "versionName": "5.0",
-  "apkUrl": "https://github.com/bethd446/Porc800/raw/main/PorcTrack_v5.apk",
+  "apkUrl": "https://github.com/bethd446/Porc800/releases/download/v5.0/PorcTrack_v5.apk",
   "changelog": "Module Porcelets (sous mere, sevres, engraissement), Reproducteurs T1-T17, Notes terrain, Deplacements, Fiches profil editables"
 }
